@@ -1,4 +1,4 @@
-import "./login.css";
+import "./registration.css";
 import { useState } from "react";
 
 export const RegistrationFormReact = () => {
